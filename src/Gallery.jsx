@@ -32,7 +32,7 @@ import Video4 from "./assets/Gallerys/Video4.mp4";
 import Video5 from "./assets/Gallerys/Video5.mp4";
 import Video6 from "./assets/Gallerys/Video6.mp4";
 import Video7 from "./assets/Gallerys/Video7.mp4";
-import Video8 from "./assets/Gallerys/Video8.mp4";
+import Video8 from "./assets/Gallerys/VIdeo8.mp4";
 import Video9 from "./assets/Gallerys/Video9.mp4";
 import Video10 from "./assets/Gallerys/Video10.mp4";
 import Video11 from "./assets/Gallerys/Video11.mp4";
