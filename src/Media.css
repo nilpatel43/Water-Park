@@ -413,10 +413,6 @@
 
   /* Ticket Page */
 
-  .ticket-hero {
-    height: 70vh;
-  }
-
   .ticket-overlay h1 {
     font-size: 38px;
   }
@@ -488,10 +484,6 @@
 
   /* Contact Page */
 
-  .contact-hero {
-    height: 70vh;
-  }
-
   .contact-overlay h1 {
     font-size: 38px;
   }
@@ -542,10 +534,6 @@
   }
 
   /* Gallery Page */
-
-  .gallery-hero {
-    height: 70vh;
-  }
 
   .gallery-overlay h1 {
     font-size: 38px;
