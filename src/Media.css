@@ -411,14 +411,33 @@
     padding-top: 20px;
   }
 
-  /* Ticket Page */
+  /* Mobile Background Full-Width Fix for Tickets, Contact, and Gallery */
 
-  .ticket-hero-container {
+  /* Ahia tamara main hero div na class names lakhva (ex: .ticket-hero, .contact-hero) */
+  .ticket-hero-container,
+  .contact-hero-container,
+  .gallery-hero-container {
+    width: 100vw !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
     background-size: cover !important;
     background-position: center !important;
-    height: 50vh;
-    width: 100%;
+    background-repeat: no-repeat !important;
+    left: 0;
   }
+
+  /* Overlay ne full width karva mate */
+  .ticket-overlay,
+  .contact-overlay,
+  .gallery-overlay {
+    width: 100% !important;
+    box-sizing: border-box;
+    padding-left: 20px !important; /* Text screen ni border ne na ade e mate */
+    padding-right: 20px !important;
+  }
+
+  /* Ticket Page */
 
   .ticket-overlay h1 {
     font-size: 38px;
