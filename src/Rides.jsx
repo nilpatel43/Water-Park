@@ -96,7 +96,7 @@ function Rides() {
         style={{ backgroundImage: `url(${RideImage})` }}
       >
         <div className="rides-overlay" data-aos="zoom-in">
-          {/* <h1>Water Park Rides</h1> */}
+          <h1>Water Park Rides</h1>
           <p>
             Experience thrilling adventures, family attractions and exciting
             water fun.
