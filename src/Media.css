@@ -413,6 +413,13 @@
 
   /* Ticket Page */
 
+  .ticket-hero-container {
+    background-size: cover !important;
+    background-position: center !important;
+    height: 50vh;
+    width: 100%;
+  }
+
   .ticket-overlay h1 {
     font-size: 38px;
   }
