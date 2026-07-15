@@ -14,7 +14,7 @@
   /* Home page */
 
   .section1 {
-    padding-top: 250px;
+    /* padding-top: 250px; */
   }
 
   .hero1 h1 {
@@ -35,10 +35,15 @@
     max-width: 380px;
   }
 
+  .hero2{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+  }
+
   .hero2 button {
     display: inline;
-    font-size: 20px;
-    padding: 12px 18px;
+    font-size: 16px;
+    padding: 10px 15px;
   }
 
   section h2 {
